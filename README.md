@@ -1,3 +1,6 @@
+# Site is deployed te below address:
+https://sparkling-fenglisu-835f27.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
